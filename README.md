@@ -1,0 +1,1 @@
+This folder showcases building multiple linear regression model from scratch by coding up gradient descent and modelling the cost function. It also compares the model with the predefined Linear Regression Model by sklearn. MSE and R2 are the parameters that have been compared
